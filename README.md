@@ -1,4 +1,4 @@
-# Hi, I'm Darryl 👋
+# Hi, I'm Dee 👋
 
 I'm an IT professional building hands-on skills in cloud computing, Linux, networking, and IT infrastructure.
 
