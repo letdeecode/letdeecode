@@ -20,5 +20,5 @@ I'm currently learning AWS and developing practical cloud engineering skills thr
 
 ## Connect With Me
 
-* GitHub: https://github.com/dbates91/dbates91.git
+* GitHub: https://github.com/letdeecode/letdeecode.git
 * LinkedIn: https://www.linkedin.com/in/dbates91
